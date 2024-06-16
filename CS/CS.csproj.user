@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Authorization\ServerConnectorWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Authorization\UserCreatorWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="General\Form\Field\UI\DateField.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="General\Form\Field\UI\ListField.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="General\Form\Field\UI\TextField.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="General\Form\UI\FormButtons.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Output\Display.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\Eighth\FormUi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\First\FormUi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\MainWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\Second\FormUi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\Fifth\FormUi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\Fourth\FormUi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Queries\Third\FormUi.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Test\Ui\Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Authorization\ServerConnectorWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Authorization\UserCreatorWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Authorization\Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="General\Form\Field\UI\DateField.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="General\Form\Field\UI\ListField.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="General\Form\Field\UI\TextField.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="General\Form\UI\FormButtons.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Output\Display.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Eighth\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Eleventh\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\First\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Second\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Fifth\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Fourth\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Sixth\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Third\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Queries\Twelfth\FormUi.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Test\Ui\Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
